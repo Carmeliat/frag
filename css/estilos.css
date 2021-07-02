@@ -1,0 +1,32 @@
+body{background: url(Fondo1.jpg);
+     background-size: 100%;}
+h1{color:White;Font-size:40}
+h2{color:White;Font-size:60;}
+h3{color:White;}
+p{color:White;Font-size:30;}
+ 
+a:link{
+  color:#20CC1E;
+  }
+
+ a:hover{
+   text-decoration:underline;
+   font-size:25px;
+   background:pink;
+   color:white;
+   box-shadow:2px 5px 0px gray;
+  }
+
+ a:active{
+   text-decoration:none;
+   font-size:25px;
+   background:#2CB0A0;
+   color:white;
+   box-shadow:1px 2px 0px black;
+   }
+
+ a:visited{
+   text-decoration:line-trougth;
+   background:#red;
+   color:green;
+  }
